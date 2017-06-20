@@ -1,5 +1,5 @@
 {
-    "name": "jonathan/repl-breakpoint",
+    "name": "jonathrg/repl-breakpoint",
     "description": "Inject a REPL anywhere in your PHP script",
     "type": "library",
     "license": "MIT",
